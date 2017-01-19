@@ -114,7 +114,7 @@ Current supported locale (for logging output):
 
 ## Ignoring files
 
-  Use a String or a RegExp in ignore option.
+  Use a string or a RegExp in the `ignore` option.
   
   ```js
     consign({
