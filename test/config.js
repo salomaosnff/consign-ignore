@@ -1,8 +1,8 @@
 /*!
- * Consign config tests.
+ * Consign Ignore.
  * Autoload your scripts.
  *
- * @author Jarrad Seers <jarrad@seers.me>
+ * @author Engajei LLC <oi@engajei.com.br>
  * @license MIT
  */
 

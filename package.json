@@ -1,10 +1,10 @@
 {
   "name": "consign-ignore",
   "description": "Consign Module with ignore option.",
-  "version": "0.1.4",
+  "version": "1.0.1",
   "author": {
-    "name": "Salomão Neto",
-    "email": "salomaosnff@yahoo.com"
+    "name": "Engajei",
+    "email": "oi@engajei.com.br"
   },
   "contributors": [],
   "main": "index",
@@ -23,7 +23,7 @@
   "engines": {
     "node": "*"
   },
-  "repository": "git://github.com/salomaosnff/consign-ignore",
+  "repository": "git://github.com/Engajei/consign-ignore",
   "devDependencies": {
     "middleware-chain": "^1.0.1",
     "mocha": "^1.21.4"

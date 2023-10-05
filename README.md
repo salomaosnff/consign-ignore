@@ -1,6 +1,5 @@
-# Consign
+# consign-ignore
 
-[![Build Status](https://travis-ci.org/jarradseers/consign.svg?branch=develop)](https://travis-ci.org/jarradseers/consign)
 
   Autoload your scripts! _the successor to `express-load`_
 
@@ -31,7 +30,7 @@ Check out the [examples](examples) or [test folder](test) for more!
 ## Installation
 
 ```bash
-$ npm install consign
+$ npm install consign-ignore
 ```
 
 ## Features
